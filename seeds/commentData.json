@@ -1,0 +1,17 @@
+[
+  {
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare vestibulum arcu non pulvinar. Donec nibh neque, cursus sed tristique ut, imperdiet ac purus.",
+      "user_id": 1,
+      "post_id": 1
+  },
+  {
+      "comment": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+      "user_id": 2,
+      "post_id": 2
+  },
+  {
+      "comment": "Suspendisse aliquet diam sed ante ornare, vitae vestibulum quam dictum. Ut dapibus ante a elit ullamcorper auctor. Proin accumsan feugiat lectus in iaculis.",
+      "user_id": 3,
+      "post_id": 3
+  }
+]

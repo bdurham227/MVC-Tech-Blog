@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Why MVC is so important",
+    "description": "MVC allows developers to maintain a true separation of concerns, devising their code between the Model layer for data, the View layer for design, and the Controller layer for application logic.",
+    "user_id": 1
+  },
+  {
+    "title": "The Art of Streaking",
+    "description": "The Art of Streaking is the hottest publication out there. Designed and written by authors and artists with over 50 years combined experience, delve into the world of streaking, artfully. For newbies and professionals alike",
+    "user_id": 2
+  },
+  {
+    "title": "Object-Relational Mapping",
+    "description": "I have really loved learning about ORMs. It's really simplified the way I create queries in SQL!",
+    "user_id": 3
+  }
+]
