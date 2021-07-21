@@ -29,7 +29,7 @@ router.post('/', withAuth, (req, res) => {
     if (req.session) {
         Comment.create({
                 comment: req.body.comment,
-                blog_id: req.body.blog_id,
+                post_id: req.body.post_id,
                 user_id: req.session.user_id,
             })
             .then(commentData => res.json(commentData))
